@@ -6,9 +6,9 @@ def numToText(o):
         if n < 20:
             return s[n]
         if n < 100:
-            return b[n//100] + " " + Go(n%10)
+            return b[n//10] + " " + Go(n%10)
         if n < 1000:
-            return s[n//1000 + 1] + " Houndred " + Go(n%100)          
+            return s[n//100 + 1] + " Houndred " + Go(n%100)          
         for p, w in enumerate((' Thousand ', ' Million ', ' Billion '), 1):
             if n < 1000 ** (p + 1):
                 return Go(n // 1000 ** p) + w + Go(n % 1000 ** p)
