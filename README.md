@@ -31,3 +31,7 @@ Minus Fourty Five Point One Two Three Four Five Six  Percent
  Fourty Five Point One Two Three Four  teaspoon
  Fourty Five Point One Two Three Four Five Six  tablespoons
 Three Houndred Twenty One Trillion Four Houndred Fifty Seven Billion Six Houndred Fifty Four Million Three Houndred Twenty One Thousand Two Houndred Thirty Two
+
+
+#this is the site i used as a source to know how i could tell numbers in english:
+https://www.ef.com/wwen/english-resources/english-grammar/numbers-english/
